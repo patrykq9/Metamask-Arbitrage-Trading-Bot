@@ -2,7 +2,7 @@
 A Metamask arbitrage trading bot for defi platforms and multiple blockchains.
 <h1 align="center">
   <br>
-  <a href="https://github.com/patrykq9/Metamask-Arbitrage-Trading-Bot"><img src="https://external-preview.redd.it/9yWT2AySv27S_y_ChBMx--Fv5VKuUwrcVnhBgrGMLRk.jpg?auto=webp&s=286a7243f41af3ade196c46ecbb08b977fe14a53" alt="Metamask Arbitrage Trading Bot" width="200"></a>
+  <a href="[https://github.com/patrykq9/Metamask-Arbitrage-Trading-Bot"><img src="https://external-preview.redd.it/9yWT2AySv27S_y_ChBMx--Fv5VKuUwrcVnhBgrGMLRk.jpg?auto=webp&s=286a7243f41af3ade196c46ecbb08b977fe14a53](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcryptoast.fr%2Fwp-content%2Fuploads%2F2019%2F06%2Fmetamask-logo-long-300x114.png&f=1&nofb=1&ipt=363253afde6e6c2bac5ead5d1f213cd22154ea133cb96281509dbcf9fed485aa&ipo=images)" alt="Metamask Arbitrage Trading Bot" width="200"></a>
   <br>
   Metamask Arbitrage Trading Bot for Defi Platforms
   <br>
@@ -20,23 +20,25 @@ A Metamask arbitrage trading bot for defi platforms and multiple blockchains.
   <a href="#license">License</a>
 </p>
 
+<center>
 ![screenshot](https://media0.giphy.com/media/3wpqQV1j9T6q7Jn1d4/giphy.gif?cid=ecf05e47w4ger32tc40a774ekqivg2qpq6t2t5vv2mlpka9b&rid=giphy.gif&ct=g)
+</center>
 
 ## Key Features
 
-➖ MULTI DEXS SUPPORTED:
-➖ PancakeSwap – PantherSwap – BakerySwap – BiSwap (BNB)
-➖ QuickSwap (MATIC)
-➖ KoffeeSwap – KuSwap (KCS)
-➖ UniSwap – SushiSwap (ETH)
-➖ CherrySwap (Okex chain)
-➖ Pangolin – Traderjoe (AVAX)
-➖ SpookySwap – SpiritSwap (Fantom)
-➖ The bot has a Stop loss.
-➖ Automatic sale at the desired price per token.
-➖ Automatic purchase of a token at the desired price.
-➖ MULTIPLE NETWORK SUPPORTED
-BNB, ETH, MATIC, KCS, OKEX AND AVAX
+<li>➖ MULTI DEXS SUPPORTED:</li>
+<li>➖ PancakeSwap – PantherSwap – BakerySwap – BiSwap (BNB)</li>
+<li>➖ QuickSwap (MATIC)</li>
+<li>➖ KoffeeSwap – KuSwap (KCS)</li>
+<li>➖ UniSwap – SushiSwap (ETH)</li>
+<li>➖ CherrySwap (Okex chain)</li>
+<li>➖ Pangolin – Traderjoe (AVAX)</li>
+<li>➖ SpookySwap – SpiritSwap (Fantom)</li>
+<li>➖ The bot has a Stop loss.</li>
+<li>➖ Automatic sale at the desired price per token.</li>
+<li>➖ Automatic purchase of a token at the desired price.</li>
+<li>➖ MULTIPLE NETWORK SUPPORTED
+BNB, ETH, MATIC, KCS, OKEX AND AVAX</li>
 
 <h3>What is the goal of arbitrage trading?</h3>
 
